@@ -7,6 +7,7 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
 - [💻 Getting Started](#getting-started)
+- [Link To Backend ](#-link-to-back-end)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
   - [Run tests](#run-tests)
@@ -39,6 +40,10 @@
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
+
+### Link to Backend <a name="-link-to-back-end"></a>
+
+[Rails API](https://github.com/ragangithub/hello-rails-back-end)
 
 ### Prerequisites
 
