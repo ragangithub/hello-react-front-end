@@ -35,15 +35,15 @@
 - React
 - Redux
 
+### Link to Backend <a name="-link-to-back-end"></a>
+
+[Rails API](https://github.com/ragangithub/hello-rails-back-end)
+
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
-
-### Link to Backend <a name="-link-to-back-end"></a>
-
-[Rails API](https://github.com/ragangithub/hello-rails-back-end)
 
 ### Prerequisites
 
